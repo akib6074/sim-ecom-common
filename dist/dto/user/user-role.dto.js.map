@@ -1,0 +1,1 @@
+{"version":3,"file":"user-role.dto.js","sourceRoot":"","sources":["../../../src/dto/user/user-role.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,yDAAyC;AACzC,+CAA2C;AAC3C,yCAAqC;AACrC,yCAAqC;AAErC,MAAa,WAAY,SAAQ,kBAAO;CAMvC;AAJC;IADC,wBAAI,CAAC,GAAG,EAAE,CAAC,kBAAO,CAAC;8BACd,kBAAO;yCAAC;AAGd;IADC,wBAAI,CAAC,GAAG,EAAE,CAAC,kBAAO,CAAC;8BACd,kBAAO;yCAAC;AALhB,kCAMC"}

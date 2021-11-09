@@ -1,0 +1,1 @@
+{"version":3,"file":"ticket-department.json.js","sourceRoot":"","sources":["../../../src/dto/json/ticket-department.json.ts"],"names":[],"mappings":";;;AAAa,QAAA,sBAAsB,GAAG;IACpC;QACE,IAAI,EAAE,SAAS;KAChB;IACD;QACE,IAAI,EAAE,gBAAgB;KACvB;IACD;QACE,IAAI,EAAE,mBAAmB;KAC1B;IACD;QACE,IAAI,EAAE,aAAa;KACpB;IACD;QACE,IAAI,EAAE,iBAAiB;KACxB;IACD;QACE,IAAI,EAAE,QAAQ;KACf;CACF,CAAC"}

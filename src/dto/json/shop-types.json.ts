@@ -1,0 +1,16 @@
+export const shopTypes = [
+  { name: 'Dairy' },
+  { name: 'Antique' },
+  { name: 'Charity' },
+  { name: 'Chip' },
+  { name: 'Department' },
+  { name: 'Drugstore' },
+  { name: 'Food' },
+  { name: 'Garage' },
+  { name: 'Hardware' },
+  { name: 'Junk Food' },
+  { name: 'Liquor' },
+  { name: 'Paper' },
+  { name: 'Sari' },
+  { name: 'Sweet' },
+];
